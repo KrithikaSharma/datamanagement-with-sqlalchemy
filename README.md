@@ -21,6 +21,8 @@ We just need to use classes and functions all the database things will be taken 
 We will also be using Flask(It is an API of Python that allows us to build up web applications)
 .
 .
-![ReadMore](https://krithikasharma2129.medium.com/data-management-with-python-sqlite-and-sqlalchemy-44cbb41aa9cf)
+<p align="center">
+  <a href="https://krithikasharma2129.medium.com/data-management-with-python-sqlite-and-sqlalchemy-44cbb41aa9cf"><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimage.shutterstock.com%2Fimage-vector%2Fread-more-web-site-button-260nw-1306313311.jpg&imgrefurl=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fread%2Bmore&tbnid=9Txgn7SgEI4wjM&vet=12ahUKEwiRjojQkuLyAhVlsksFHXd6CbgQMygAegUIARCpAQ..i&docid=-nnKtiYeSrddZM&w=446&h=280&q=read%20more%20image&ved=2ahUKEwiRjojQkuLyAhVlsksFHXd6CbgQMygAegUIARCpAQ" alt="BlogOnMedium"/></a>
+ </p>
 
 ### Thank you! keep learning! keep growing! keep sharing!
